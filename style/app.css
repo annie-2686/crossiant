@@ -1,0 +1,28 @@
+body {
+  background-color: blanchedalmond;
+}
+
+h1 {
+  text-align: center;
+  color: blue;
+  padding: 5px, 5px;
+}
+
+p {
+  text-align: center;
+}
+
+.pagelinks {
+  text-align: center;
+  color: blueviolet;
+  padding: 5px, 5px;
+  justify-content: center;
+  display: flex;
+  margin-top: 40px;
+}
+
+img {
+  border-radius: 4px;
+  display: block;
+  text-align: center;
+}
