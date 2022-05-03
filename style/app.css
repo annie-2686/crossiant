@@ -15,14 +15,17 @@ p {
 .pagelinks {
   text-align: center;
   color: blueviolet;
-  padding: 5px, 5px;
   justify-content: center;
   display: flex;
-  margin-top: 40px;
+  margin: 0 10px;
+  padding: 20px 15px;
 }
 
 img {
   border-radius: 4px;
   display: block;
-  text-align: center;
+  margin-top: auto;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
