@@ -17,8 +17,11 @@ p {
   color: blueviolet;
   justify-content: center;
   display: flex;
-  margin: 0 10px;
   padding: 20px 15px;
+}
+
+.pagelinks a {
+  margin: 0 10px;
 }
 
 img {
